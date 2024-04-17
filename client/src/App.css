@@ -1,0 +1,16 @@
+.App h1 {
+  text-align: center;
+}
+.stock-list {
+  margin: auto;
+  max-width: 50%;
+}
+.stocks-heading {
+  font-size: 45px;
+
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 380px;
+}
